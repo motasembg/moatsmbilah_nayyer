@@ -1,0 +1,11 @@
+#image
+{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+#img-div
+{
+    background-color: white;
+    text-align: center;
+}
